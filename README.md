@@ -24,8 +24,8 @@ This Tools Working Only 64bit Mobile!
 - `pip install requests`
 - `pip install bs4 httpx`
 - `rm -rf PAID GREEN`
-- `git clone --depth=1 https://github.com/MR-DEKU-VAIYA/PAID GREEN.git`
-- `cd PAID GREEN`
+- `git clone --depth=1 https://github.com/MR-DEKU-VAIYA/PAID-GREEN.git`
+- `cd PAID-GREEN`
 - `python paid_enc.py`
 
 Note: (This Tools Are Paid, So You Need Permission To Use Deku Paid Green Tools Enjoy)
